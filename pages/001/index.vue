@@ -7,7 +7,7 @@
             <span class="text-green-700 mr-2">[系統]</span>
             <span class="text-green-400 animate-pulse">連接成功...</span>
           </div>
-          <h1 class="text-3xl font-bold glitch-text mb-2">Vibe Coding 001</h1>
+          <h1 class="text-3xl font-bold glitch-text mb-2">傑克 IT 誌 - Vibe Coding 001</h1>
           <p class="text-green-400">使用 Vue + Nuxt 製作酷炫 blog</p>
         </div>
         
@@ -121,15 +121,15 @@ export default defineNuxtConfig({
           <ul class="list-none pl-6 mb-4">
             <li class="mb-2 flex items-center">
               <span class="text-green-700 mr-2">[>]</span>
-              <span class="text-green-400">程式碼: 可以在 <a href="https://xxx" class="text-green-300 underline hover:text-green-100">https://xxx</a> 參考相關程式碼</span>
+              <span class="text-green-400">程式碼: 可以在 <a href="https://github.com/JakeChang/web-vibe-coding" class="text-green-300 underline hover:text-green-100">https://github.com/JakeChang/web-vibe-coding</a> 參考相關程式碼</span>
             </li>
             <li class="mb-2 flex items-center">
               <span class="text-green-700 mr-2">[>]</span>
-              <span class="text-green-400">線上 Demo: <a href="https://xxx" class="text-green-300 underline hover:text-green-100">https://xxx</a></span>
+              <span class="text-green-400">線上 Demo: <a href="https://jk-web-vibe.netlify.app/001/" class="text-green-300 underline hover:text-green-100">https://jk-web-vibe.netlify.app/001/</a></span>
             </li>
             <li class="mb-2 flex items-center">
               <span class="text-green-700 mr-2">[>]</span>
-              <span class="text-green-400">youtube 講解: <a href="https://xxx" class="text-green-300 underline hover:text-green-100">https://xxx</a></span>
+              <span class="text-green-400">youtube 講解: <a href="https://youtu.be/Z4ut1aEW4QA" class="text-green-300 underline hover:text-green-100">https://youtu.be/Z4ut1aEW4QA</a></span>
             </li>
           </ul>
         </div>
@@ -141,6 +141,16 @@ export default defineNuxtConfig({
           </div>
         </div>
       </article>
+    </div>
+    
+    <!-- Footer -->
+    <div class="bg-black border-t border-green-700 mt-8 py-4">
+      <div class="container mx-auto text-center">
+        <div class="flex items-center justify-center">
+          <span class="text-green-700 mr-2">[//]</span>
+          <span class="text-green-500 glitch-text">傑克 IT 誌 - Vibe Coding 001</span>
+        </div>
+      </div>
     </div>
   </div>
 </template>
