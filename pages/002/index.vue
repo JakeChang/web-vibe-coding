@@ -134,25 +134,25 @@
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
                 </svg>
-                <a href="https://xxx" class="hover:underline">程式碼參考連結</a>
+                <a href="https://github.com/JakeChang/google-sheet-api" class="hover:underline">程式碼參考連結</a>
               </div>
             </div>
             
-            <div class="bg-white rounded-md border border-gray-200 p-4 hover:shadow-md transition duration-200">
+            <!-- <div class="bg-white rounded-md border border-gray-200 p-4 hover:shadow-md transition duration-200">
               <div class="flex items-center text-green-600">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
                 </svg>
                 <a href="https://xxx" class="hover:underline">線上 Demo</a>
               </div>
-            </div>
+            </div> -->
             
             <div class="bg-white rounded-md border border-gray-200 p-4 hover:shadow-md transition duration-200">
               <div class="flex items-center text-red-600">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z" />
                 </svg>
-                <a href="https://xxx" class="hover:underline">Youtube 講解</a>
+                <a href="https://youtu.be/8HBgF0q3L0c" class="hover:underline">Youtube 講解</a>
               </div>
             </div>
           </div>
