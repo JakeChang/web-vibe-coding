@@ -4,7 +4,7 @@
       <div class="bg-white shadow-lg rounded-lg overflow-hidden">
         <!-- 筆記本風格頁面 -->
         <div class="border-b border-gray-200 p-6 bg-red-100">
-          <h1 class="text-3xl font-bold text-gray-900">技術文件部落格</h1>
+          <h1 class="text-3xl font-bold text-gray-900">傑克 IT 誌 - Vibe Coding</h1>
         </div>
         
         <!-- 筆記內容區 -->
@@ -128,9 +128,9 @@ myCallback({"success":true,"data":{"id":1,"name":"李四","age":30},"error":null
 
 <h2>結果</h2>
 <ul>
-  <li>程式碼: 可以在 https://xxx 參考相關程式碼</li>
-  <li>線上 Demo: https://xxx</li>
-  <li>youtube 講解: https://xxx</li>
+  <li>程式碼: 可以在 <a href="https://github.com/JakeChang/vibe003-web-googlesheet" target="_blank">https://github.com/JakeChang/vibe003-web-googlesheet</a> 參考相關程式碼</li>
+  <li>線上 Demo: <a href="https://jk-vibe003.netlify.app/" target="_blank">https://jk-vibe003.netlify.app/</a></li>
+  <li>youtube 講解: <a href="https://youtu.be/IM2z4qFcxsE" target="_blank">https://youtu.be/IM2z4qFcxsE</a></li>
 </ul>
 `
 </script>

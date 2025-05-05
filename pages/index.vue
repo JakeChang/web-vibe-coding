@@ -45,14 +45,14 @@
         <div class="bg-amber-50 rounded-lg shadow-lg overflow-hidden transform transition duration-300 hover:scale-105 hover:shadow-xl">
           <div class="px-6 py-8">
             <div class="flex items-center mb-4">
-              <span class="text-amber-800 font-medium">技術文件</span>
-              <span class="text-red-600 font-medium ml-1">部落格</span>
+              <span class="text-amber-800 font-medium">傑克 IT 誌</span>
+              <span class="text-red-600 font-medium ml-1">Vibe Coding</span>
             </div>
             <h2 class="text-2xl font-medium text-gray-800 mb-4">Vibe Coding 003</h2>
             <p class="text-gray-600 mb-6">Nuxt.js 串接 Google Sheet API</p>
             <div class="mt-6">
               <NuxtLink to="/003" class="inline-block bg-red-100 hover:bg-red-200 text-red-800 font-medium py-2 px-4 rounded border border-amber-200 transition duration-300">
-                筆記本文件
+                訪問頁面
               </NuxtLink>
             </div>
           </div>
