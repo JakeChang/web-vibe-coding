@@ -508,7 +508,7 @@
         <p class="text-gray-600">
             傑克 IT 誌 - Vibe Coding
         </p>
-        <a href="https://jkone.dev/" target="_blank" rel="noopener noreferrer" class="inline-block mt-2 text-blue-600 hover:text-blue-800 hover:underline transition duration-300">
+        <a href="https://jkone.dev/" rel="noopener noreferrer" class="inline-block mt-2 text-blue-600 hover:text-blue-800 hover:underline transition duration-300">
           JK__
         </a>
       </div>
